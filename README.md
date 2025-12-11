@@ -10,6 +10,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - Covers **5 Tesla models**: Model S, Model 3, Model X, Model Y, Cybertruck  
 - Includes **11 years of data (2015–2025)**  
 - Shows Tesla’s **global performance**, **market shifts**, and **environmental impact**
+  
+  ![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185214.png?raw=true)
 
 ---
 
@@ -41,6 +43,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - **Peak year:** 2016  
 - **CO₂ saved:** 403K tons  
 - Strong demand in **North America** and **Europe**
+  
+![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185408.png?raw=true)
 
 ---
 
@@ -50,6 +54,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - **Peak year:** 2015  
 - **CO₂ saved:** 403K tons  
 - Top-performing in sustainability
+  
+![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185330.png?raw=true)
 
 ---
 
@@ -59,6 +65,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - **Peak year:** 2022  
 - **CO₂ saved:** 388K tons  
 - Strong in **North America** & **Middle East**
+  
+![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185301.png?raw=true)
 
 ---
 
@@ -68,6 +76,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - **Peak years:** 2018 & 2022  
 - **CO₂ saved:** 389K tons  
 - High average vehicle value: **$86K**
+  
+![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185439.png?raw=true)
 
 ---
 
@@ -77,6 +87,8 @@ Dashboard visualizations help understand how different Tesla models perform acro
 - **Peak year:** 2024  
 - **CO₂ saved:** 382K tons  
 - Strong presence in **North America**
+  
+![img alt](https://github.com/iamsumansaha/Tesla-Global-Delivery-Performance-Analysi/blob/main/Dashboard/Screenshot%202025-12-11%20185512.png?raw=true)
 
 ---
 
